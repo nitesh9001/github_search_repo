@@ -1,0 +1,25 @@
+
+.loader_css{
+    position:fixed;
+    top: 30%;
+    left: 45%;
+    background-color: rgba(221, 221, 221, 0.685);
+    width: 200px;
+    box-shadow: 0 2px 5px black;
+    z-index: 1000;
+    border-radius: 10px;
+    height:200px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+.footer-back{
+    background-color: rgb(40, 46, 51);
+    .para-footer{
+        text-align: center;
+        color: white;
+        letter-spacing: 2px;
+        padding-top: 10px;
+    }
+}

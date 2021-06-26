@@ -1,0 +1,18 @@
+$headercolor:rgb(31, 102, 255);
+
+$hovercolor:rgba(31, 102, 255,0.5);
+
+$buttoncolor:rgb(255, 203, 31);
+
+.height-header{
+    height: 80px;
+    vertical-align: center;
+    padding: 20px 0;
+}
+.logo-header{
+    color: $headercolor;
+    font-weight: 800;
+    font-family:cursive;
+    font-size: 45px;
+    text-align: center;
+}
